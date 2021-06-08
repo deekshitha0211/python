@@ -1,5 +1,4 @@
-import os
-	list1 = [8, 9, 3, 6, 1, 0]
-	list1.reverse()
-	print("The Reversed list is",list1)
-
+string1 = "Linux"
+string2 = "Hint"
+joined_string = string1 + string2
+print(joined_string)
